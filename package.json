@@ -1,7 +1,7 @@
 {
   "name": "task-timeout",
   "version": "0.1.0",
-  "description": "Wrap a function that may throw with a function that returns a Task",
+  "description": "Set a timeout for a task",
   "main": "src/index.js",
   "scripts": {
     "pretest": "npm run lint",
