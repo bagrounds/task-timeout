@@ -1,0 +1,8 @@
+[![build-status](https://gitlab.com/bagrounds/task-timeout/badges/master/build.svg)](https://gitlab.com/bagrounds/task-timeout/commits/master)
+[![coverage-report](https://gitlab.com/bagrounds/task-timeout/badges/master/coverage.svg)](https://gitlab.com/bagrounds/task-timeout/commits/master)
+[![license](https://img.shields.io/npm/l/task-timeout.svg)](https://www.npmjs.com/package/task-timeout)
+[![version](https://img.shields.io/npm/v/task-timeout.svg)](https://www.npmjs.com/package/task-timeout)
+[![downloads](https://img.shields.io/npm/dt/task-timeout.svg)](https://www.npmjs.com/package/task-timeout)
+[![downloads-monthly](https://img.shields.io/npm/dm/task-timeout.svg)](https://www.npmjs.com/package/task-timeout)
+[![dependencies](https://david-dm.org/bagrounds/task-timeout/status.svg)](https://david-dm.org/bagrounds/task-timeout)
+
